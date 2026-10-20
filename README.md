@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="files/logo.png" alt="AbuseBox Logo" width="120" />
+<img src="files/logo.png" alt="ThreatAnalysisBox Logo" width="120" />
 
-# AbuseBox
+# ThreatAnalysisBox
 
 **Open-source threat monitoring toolkit for IPs, domains, and servers.**
 
@@ -47,7 +47,7 @@ Check blacklists, query AbuseIPDB, inspect DNS/SSL/DMARC records, scan subnets a
 
 ---
 
-## Why AbuseBox?
+## Why ThreatAnalysisBox?
 
 Most blacklist tools check one thing at a time. AbuseBox gives you a **single pane of glass** to:
 
